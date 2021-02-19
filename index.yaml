@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bloggy:
+  - apiVersion: v2
+    appVersion: 3.4.0
+    created: "2021-02-18T22:55:19.0248297-05:00"
+    description: A Helm chart for Kubernetes
+    digest: ed4ff4f8ba8a9cd2081418b3ba0ed1a6fa9ba2473bf5dbf0f2d38a976964e8a2
+    name: bloggy
+    type: application
+    urls:
+    - bloggy-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-02-18T22:55:19.0238317-05:00"
